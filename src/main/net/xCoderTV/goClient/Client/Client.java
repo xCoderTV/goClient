@@ -17,4 +17,5 @@ public class Client {
 		}
 	}
 	//Nevermind, let's do a TODO.
+	//TODO: log players uuid and ip, even name if needed.
 }
